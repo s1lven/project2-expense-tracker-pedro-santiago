@@ -2,6 +2,10 @@
 
 A comprehensive expense tracking application built with Flutter and Firebase, featuring receipt photo storage, location tracking, budget management, and multi-currency support.
 
+## Video demo
+
+https://youtu.be/tyE11iAo5o0
+
 ## Features
 
 ### Core Features
